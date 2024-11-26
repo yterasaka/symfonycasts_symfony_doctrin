@@ -13,6 +13,7 @@
         "doctrine/orm": "^2.20",
         "knplabs/knp-time-bundle": "^1.18",
         "sensio/framework-extra-bundle": "^6.2",
+        "stof/doctrine-extensions-bundle": "^1.12",
         "symfony/asset": "6.1.*",
         "symfony/console": "6.1.*",
         "symfony/dotenv": "6.1.*",
